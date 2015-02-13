@@ -30,3 +30,7 @@ Thumbs.db
 .idea
 .gradle
 build/
+
+# Editor Backup Files
+*~
+*.swp
